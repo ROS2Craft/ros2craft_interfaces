@@ -1,0 +1,8 @@
+uint8 ADD_ROBOT=0
+uint8 DEL_ROBOT=1
+
+uint8 operation
+string robot_name
+---
+bool success
+string message
