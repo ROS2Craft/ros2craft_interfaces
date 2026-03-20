@@ -1,5 +1,5 @@
 # General raw robot status from MC world
-# Minecraft uses LEFT handed, Y UP coordinate frame!!!
+# Minecraft uses Y UP Z SOUTH coordinate frame!!!
 
 string frame_id
 
